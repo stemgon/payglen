@@ -56,3 +56,11 @@ cd payglen
 
 # Spin up dev environment
 docker-compose up --build
+
+
+## 🧪 API Documentation
+```bash
+http://localhost:8000/api/docs/
+# Alternatively, visit the hosted version
+https://api.payglen.com/docs
+```
